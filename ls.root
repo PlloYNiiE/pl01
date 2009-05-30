@@ -1,0 +1,26 @@
+total 108
+      2 drwxr-xr-x  22 root root  4096 2009-04-27 17:19 .
+      2 drwxr-xr-x  22 root root  4096 2009-04-27 17:19 ..
+  90113 drwxr-xr-x   2 root root  4096 2009-04-27 17:19 bin
+ 108485 drwxrwxrwx   1 root root  4096 2009-05-06 08:43 boot
+     12 lrwxrwxrwx   1 root root    11 2009-04-27 17:14 cdrom -> media/cdrom
+    641 drwxr-xr-x  16 root root  4380 2009-05-30 21:50 dev
+ 720897 drwxr-xr-x 146 root root 12288 2009-05-30 20:59 etc
+ 999425 drwxr-xr-x   3 root root  4096 2009-04-27 17:18 home
+      5 drwxrwxrwx   1 root root  8192 2009-05-22 01:50 host
+  27398 lrwxrwxrwx   1 root root    33 2009-04-27 17:19 initrd.img -> boot/initrd.img-2.6.28-11-generic
+ 827393 drwxr-xr-x  19 root root  4096 2009-05-06 08:45 lib
+     11 drwx------   2 root root 16384 2009-04-27 17:14 lost+found
+ 311297 drwxr-xr-x   3 root root  4096 2009-05-30 20:34 media
+ 229377 drwxr-xr-x   2 root root  4096 2009-04-13 16:33 mnt
+  32769 drwxr-xr-x   4 root root  4096 2009-05-14 13:07 opt
+      1 dr-xr-xr-x 159 root root     0 2009-05-31 03:33 proc
+ 278529 drwx------  16 root root  4096 2009-05-23 01:28 root
+ 344065 drwxr-xr-x   2 root root  4096 2009-05-06 08:42 sbin
+  81921 drwxr-xr-x   2 root root  4096 2009-03-06 23:21 selinux
+ 581633 drwxr-xr-x   2 root root  4096 2009-04-20 20:59 srv
+      1 drwxr-xr-x  12 root root     0 2009-05-31 03:33 sys
+ 729089 drwxrwxrwt  14 root root 12288 2009-05-30 20:59 tmp
+1040385 drwxr-xr-x  13 root root  4096 2009-04-27 22:18 usr
+ 237569 drwxr-xr-x  16 root root  4096 2009-04-28 16:07 var
+  27399 lrwxrwxrwx   1 root root    30 2009-04-27 17:19 vmlinuz -> boot/vmlinuz-2.6.28-11-generic
